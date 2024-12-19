@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Bulls and Cows (Kotlin)/*
+!/Bulls and Cows (Kotlin)/task/
+/Bulls and Cows (Kotlin)/task/*
+!/Bulls and Cows (Kotlin)/task/src
